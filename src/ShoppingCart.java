@@ -24,7 +24,7 @@ public class ShoppingCart {
     }
 
     public void run() {
-        System.out.println("=============Welcome to shopiFy=============");
+        System.out.println("=============Welcome to D-Mart=============");
         while (true) {
 
             System.out.println("1:Availble Items \n2:add item\n3:view a cart\n4:exit\nenter your choice:");
